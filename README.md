@@ -4,10 +4,10 @@ This is an application that retrieves a github users' profile by requesting info
 
 Tools used:
 
-Javascript
-JQuery
-HandlebarsJS
-GitHub API
+* Javascript
+* JQuery
+* HandlebarsJS
+* GitHub API
 
 Learning aims:
 
