@@ -11,4 +11,4 @@ Tools used:
 
 Learning aims:
 
-Get comfortable using template systems and retrieving information from external API's.
+Get comfortable using templating systems and retrieving information from external APIs.
